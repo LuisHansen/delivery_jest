@@ -4,7 +4,7 @@
   "description": "Código-base testes para entrevistas em nodeJS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/jest/bin/jest.js"
   },
   "author": "",
   "license": "ISC",
