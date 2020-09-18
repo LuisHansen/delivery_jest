@@ -1,27 +1,27 @@
-#Delivery: projeto base em nodeJS e Jest
+# Delivery: projeto base em nodeJS e Jest
 
-	Projeto base para entrevistas usando nodeJS e Jest como biblioteca de testes.
+Projeto base para entrevistas usando nodeJS e Jest como biblioteca de testes.
 
-##Requerimentos de ambiente
- 
-	NodeJS > 12.0
-	IDE ou editor opcional
+## Requerimentos de ambiente
 
-##Configurando o ambiente
-	
-	Após clonar o repositório, basta rodar:
+NodeJS > 12.0
+IDE ou editor opcional
 
-	```bash
-	npm i
-	```
+## Configurando o ambiente
 
-###Rodando os testes
+Após clonar o repositório, basta rodar:
 
-	Para testar seu ambiente, rode os testes propostos com:
+```bash
+npm i
+```
 
-	```bash
-	npm test
-	```
+### Rodando os testes
 
-	Um teste deve passar e outro falhar.
-	Se isso aconter, o ambeinte estará pronto para sua entrevista!
+Para testar seu ambiente, rode os testes propostos com:
+
+```bash
+npm test
+```
+
+Um teste deve passar e outro falhar.
+Se isso aconter, o ambeinte estará pronto para sua entrevista!
